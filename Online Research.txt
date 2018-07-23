@@ -1,0 +1,6 @@
+https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.scatter.html
+https://stackoverflow.com/questions/39217347/how-to-split-number-to-separate-columns-in-pandas-dataframe
+https://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas?rq=1
+https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas?rq=1
+https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas?rq=1
+https://stackoverflow.com/questions/48474811/return-different-value-depending-on-number-of-arguments-in-a-function?noredirect=1&lq=1
